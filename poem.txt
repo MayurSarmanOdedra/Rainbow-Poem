@@ -1,6 +1,7 @@
 Rainbow Colors
 
 Red
+Orange
 Yellow
 Blue
 Violet
