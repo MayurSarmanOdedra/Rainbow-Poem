@@ -3,6 +3,7 @@ Rainbow Colors
 Red
 Orange
 Yellow
+Green
 Blue
 Violet
 Pink
